@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my gitrepositroy
 <br>
-author-tirth panchal 
+author-apna college panchal 
